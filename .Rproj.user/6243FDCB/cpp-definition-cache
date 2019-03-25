@@ -1,0 +1,32 @@
+[
+    {
+        "definitions" : [
+            {
+                "column" : 15,
+                "file" : "/Users/jschlicht/OPER782Package/src/ratio_cpp.cpp",
+                "kind" : 6,
+                "line" : 16,
+                "name" : "ratio_cpp(NumericVector, NumericVector)",
+                "parent_name" : "",
+                "usr" : "c:@F@ratio_cpp#$@N@Rcpp@C@Vector>#VI14#@N@Rcpp@CT>1#T@PreserveStorage#S0_#"
+            }
+        ],
+        "file" : "/Users/jschlicht/OPER782Package/src/ratio_cpp.cpp",
+        "file_last_write" : 1553528573
+    },
+    {
+        "definitions" : [
+            {
+                "column" : 6,
+                "file" : "/Users/jschlicht/OPER782Package/src/rcpp_hello_world.cpp",
+                "kind" : 6,
+                "line" : 6,
+                "name" : "rcpp_hello_world",
+                "parent_name" : "",
+                "usr" : "c:@F@rcpp_hello_world#"
+            }
+        ],
+        "file" : "/Users/jschlicht/OPER782Package/src/rcpp_hello_world.cpp",
+        "file_last_write" : 1553520654
+    }
+]
